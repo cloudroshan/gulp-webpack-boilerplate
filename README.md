@@ -1,4 +1,4 @@
-# vm-boilerplate
+#boilerplate
 
 - clone the repository( __git clone__ _respository-name_)
 - install the dependencies(__npm install__) 
